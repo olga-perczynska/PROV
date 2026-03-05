@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% Definicja stylów (wizualne odróżnienie elementów PROV)
     classDef entity fill:#FFFACD,stroke:#333,stroke-width:2px;
